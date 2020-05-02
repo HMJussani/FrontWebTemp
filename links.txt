@@ -1,0 +1,10 @@
+https://www.npmjs.com/package/ngx-gauge
+
+https://github.com/ashish-chopra/ngx-gauge#readme
+
+npm install --save ngx-gauge 
+
+
+https://martin36.github.io/react-gauge-chart/
+
+https://github.com/Martin36/react-gauge-chart
